@@ -1,0 +1,47 @@
+# Shellscripts
+scp moviescript.sh lach0018@hc.gps.stthomas.edu:/home/lach0018/MapReduce
+
+scp sortmoviesingenres.sh lach0018@hc.gps.stthomas.edu:/home/lach0018/MapReduce
+
+scp getMapReduceResults.sh lach0018@hc.gps.stthomas.edu:/home/lach0018/MapReduce
+
+# MR01
+scp movietitlesgenresbyid/movietitlesgenresbyid.jar lach0018@hc.gps.stthomas.edu:/home/lach0018/MapReduce
+
+# MR02
+scp movieratingsbyid/movieratingsbyid.jar lach0018@hc.gps.stthomas.edu:/home/lach0018/MapReduce
+ 
+# MR03
+scp joinmovietitlesgenresratings/joinmovietitlesgenresratings.jar lach0018@hc.gps.stthomas.edu:/home/lach0018/MapReduce
+
+# MR04           
+scp calculatemovietitleratings/calculatemovietitleratings.jar lach0018@hc.gps.stthomas.edu:/home/lach0018/MapReduce
+
+# MR05
+scp sortmovietitlesbyrating/sortmovietitlesbyrating.jar lach0018@hc.gps.stthomas.edu:/home/lach0018/MapReduce
+
+# MR06
+scp calculatemoviegenreratings/calculatemoviegenreratings.jar lach0018@hc.gps.stthomas.edu:/home/lach0018/MapReduce
+
+# MR07
+scp sortmoviegenresbyrating/sortmoviegenresbyrating.jar lach0018@hc.gps.stthomas.edu:/home/lach0018/MapReduce
+
+# MR08
+scp movieratingcountbyuserid/movieratingcountbyuserid.jar lach0018@hc.gps.stthomas.edu:/home/lach0018/MapReduce
+
+# MR09
+scp userratingfrequency/userratingfrequency.jar lach0018@hc.gps.stthomas.edu:/home/lach0018/MapReduce
+
+# MR10
+scp sortuserratingfrequency/sortuserratingfrequency.jar lach0018@hc.gps.stthomas.edu:/home/lach0018/MapReduce
+
+# MR11
+scp moviegenrestitlesratings/moviegenrestitlesratings.jar lach0018@hc.gps.stthomas.edu:/home/lach0018/MapReduce
+
+# MR12
+scp movieratingstitlesbygenre/movieratingstitlesbygenre.jar lach0018@hc.gps.stthomas.edu:/home/lach0018/MapReduce
+
+# MR13
+scp sortmoviesbyratingwithingenre/sortmoviesbyratingwithingenre.jar lach0018@hc.gps.stthomas.edu:/home/lach0018/MapReduce
+
+
