@@ -1,9 +1,10 @@
 # MovieLens-Analysis
 * Course project for SEIS736 - Big Data Architecture at the University of St. Thomas in St. Paul, MN
-* Data Analysis of the MovieLens dataset provided by GroupLens at the University of Minnesota 
+* MovieLens dataset provided by GroupLens at the University of Minnesota
+    * http://grouplens.org/datasets
 * Data Analysis Technologies: Hadoop MapReduce, Spark, & Microsoft SQL Server
 
-#### The purpose of the project is to compare and contrast different technologies for analyzing datasets.
+#### The purpose of the project is to compare and contrast different technologies for analyzing the MovieLens dataset.
 
 #### Directory Structure and Contents
 * MapReduce
